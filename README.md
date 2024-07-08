@@ -1,5 +1,5 @@
 ## Hello everyone! I am Julia Portella!
-- Working with Ruby on Rails, HTML, and CSS.
+- Working with Ruby on Rails, JavaScript and VueJs.
 - I'm a student of Systems Analysis and Development at @mackenzie.
 
 <div>
